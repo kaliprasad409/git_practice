@@ -6,3 +6,4 @@ def display():
     print("testing git commands")
     print("================")
     print("tessting 2nd commit")
+    print("testing first commit to alpha branch")
