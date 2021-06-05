@@ -19,3 +19,6 @@ def simpleinterst(p, n, r):
 
 def compoundinterest(p, n, r):
     return (p*n*r)/1000
+
+def get_loadAmout(p, n, r):
+    return (p*n*r)/100
