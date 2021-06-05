@@ -16,4 +16,6 @@ def divide(a, b):
 
 def simpleinterst(p, n, r):
     return (p*n*r)/100
-    
+
+def compoundinterest(p, n, r):
+    return (p*n*r)/1000
