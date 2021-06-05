@@ -13,3 +13,7 @@ def multiply(a, b):
 
 def divide(a, b):
     return a / b 
+
+def simpleinterst(p, n, r):
+    return (p*n*r)/100
+    
